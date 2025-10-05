@@ -22,7 +22,7 @@
     },
     {
         "id":"6",
-        "name":"Monstera Deliciosa",
+        "name":"Monstera ",
         "price":"$20",
         "title":"Popularly known as the Swiss Cheese Plant, it’s loved for its dramatic, split leaves. A tropical vibe for any room.",
         "image":"imgjson/Ocean Pear (2).png"
@@ -55,4 +55,5 @@
         "title":"A desert plant that stores water in its thick stem. Ideal for sunny spots and minimal watering.",
         "image":"imgjson/Ocean Pear (10).png"
     }
+
 ]
