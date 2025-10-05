@@ -1,0 +1,58 @@
+[
+    {
+        "id":"3",
+        "name":"Flower Plant",
+        "price":"$50",
+        "title":"A beautiful flowering plant perfect for any room..",
+        "image":"imgjson/تصميم بدون عنوان (4).png"
+    },
+    {
+        "id":"4",
+        "name":"Aloe Vera",
+        "price":"$30",
+        "title":"A succulent plant known for its healing gel.",
+        "image":"imgjson/Ocean Pear (4).png"
+    },
+    {
+        "id":"5",
+        "name":"Bonsai Tree",
+        "price":"$20",
+        "title":"Miniature tree that brings peace and beauty.",
+        "image":"imgjson/Ocean Pear (3).png"
+    },
+    {
+        "id":"6",
+        "name":"Monstera Deliciosa",
+        "price":"$20",
+        "title":"Popularly known as the Swiss Cheese Plant, it’s loved for its dramatic, split leaves. A tropical vibe for any room.",
+        "image":"imgjson/Ocean Pear (2).png"
+    },
+    {
+        "id":"3",
+        "name":"ZZ Plant ",
+        "price":"$50",
+        "title":"A beautiful indoor plant with white flowers. It also helps clean indoor air.",
+        "image":"imgjson/Ocean Pear (1).png"
+    },
+    {
+        "id":"4",
+        "name":"Pothos ",
+        "price":"$30",
+        "title":"An easy-growing vine plant with heart-shaped leaves. Great for shelves or hanging baskets.",
+        "image":"imgjson/تصميم بدون عنوان (8).png"
+    },
+    {
+        "id":"5",
+        "name":"Cactus",
+        "price":"$20",
+        "title":"Miniature tree that brings peace and beauty.",
+        "image":"imgjson/Ocean Pear.png"
+    },
+    {
+        "id":"6",
+        "name":"Peace Lily",
+        "price":"$20",
+        "title":"A desert plant that stores water in its thick stem. Ideal for sunny spots and minimal watering.",
+        "image":"imgjson/Ocean Pear (10).png"
+    }
+]
